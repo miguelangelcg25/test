@@ -17,7 +17,7 @@ Follow this steps in order to install the module:
 ![image alt text](images/generic_api_key.png)
 
 5. Login into AM console as an administrator and go to `Realms > Top Level Real > Authentication > Modules`.
-6. Click on Add Module button. Name the module NoPassword and select NoPassword from Type list.
+6. Click on **Add Module** button. Name the module NoPassword and select NoPassword from Type list.
 
 ![image](images/add_module_1.png)
 
