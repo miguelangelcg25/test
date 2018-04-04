@@ -1,4 +1,4 @@
-~[image alt text](images/nopassword_logo.png)
+![image alt text](images/nopassword_logo.png)
 
 # NoPassword Authentication Module
 
