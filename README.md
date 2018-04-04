@@ -1,25 +1,17 @@
-<!DOCTYPE HTML PUBLIC>
-<html lang="en">
-    <head>
-        <title>NoPasswordOpenAMAuth/README.md</title>
-    </head>
-    <body>
-        <div>
-            <img src="https://raw.githubusercontent.com/NoPasswordRepo/NoPasswordOpenAMAuth/master/images/nopassword_logo.png" width="198" height="44"/>
-        </div>
+![image alt text](images/nopassword_logo.png)
 
-        <h1><strong>NoPasswordOpenAMAuth</strong></h1>
+# NoPasswordOpenAMAuth
 
-        <p>The NoPassword OpenAM Authentication Module allows to ForgeRock users to integrate their AM instance to the NoPassword authentication services.</br>
-            This document assusmes that you already have an AM 5.5+ instance running with an user base configured.</p>
+The NoPassword OpenAM Authentication Module allows to ForgeRock users to integrate their AM instance to the NoPassword authentication services.
+This document assusmes that you already have an AM 5.5+ instance running with an user base configured.
 
-        <h2><strong>Installation</strong></h2>
+## Installation
 
-        <p>Follow this steps in order to install the module:</p>
-        <ol>
-            <li>Download the jar file from <a href="https://github.com/NoPasswordRepo/NoPasswordOpenAMAuth/blob/master/target/nopassword-openam-auth-module-1.0.jar">here</a>.</li>
-            <li>Copy the **nopassword-openam-auth-module-1.0.jar** file on your server: /path/to/tomcat/webapps/openam/WEB-INF/lib</li>
-            <li>Restart AM.</li>
+Follow this steps in order to install the module:
+
+* Download the jar file from [here](taget/nopassword-openam-auth-module-1.0.jar).
+* Copy the **nopassword-openam-auth-module-1.0.jar** file on your server: /path/to/tomcat/webapps/openam/WEB-INF/lib
+* Restart AM.
             <li>Login into NoPassword admin portal and open the Keys menu on the left side. Copy the Generic API key value by clicking in the green button and save it for later.</li>
             </br><img src="https://raw.githubusercontent.com/NoPasswordRepo/NoPasswordOpenAMAuth/master/images/generic_api_key.png"></br></br>
             <li>Login into AM console as an administrator and go to Realms > Top Level Real > Authentication > Modules.</li>
