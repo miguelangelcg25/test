@@ -1,6 +1,6 @@
 ![image alt text](images/nopassword_logo.png)
 
-# NoPasswordOpenAMAuth
+# NoPassword Authentication module
 
 The NoPassword OpenAM Authentication Module allows to ForgeRock users to integrate their AM instance to the NoPassword authentication services.
 This document assusmes that you already have an AM 5.5+ instance running with an user base configured.
