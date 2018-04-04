@@ -12,12 +12,12 @@ Follow this steps in order to install the module:
 1. Download the jar file from [here](taget/nopassword-openam-auth-module-1.0.jar).
 2. Copy the **nopassword-openam-auth-module-1.0.jar** file on your server: `/path/to/tomcat/webapps/openam/WEB-INF/lib`
 3. Restart AM.
-4. Login into NoPassword admin portal and open the `Keys` menu on the left side. Copy the **Generic API key** value by clicking in the green button and save it for later.
+4. Login into NoPassword admin portal and open the `Keys` menu on the left side. Copy the **Generic API** key value by clicking in the green button and save it for later.
 
 ![image alt text](images/generic_api_key.png)
 
 5. Login into AM console as an administrator and go to `Realms > Top Level Real > Authentication > Modules`.
-6. Click on **Add Module** button. Name the module NoPassword and select NoPassword from Type list.
+6. Click on **Add Module** button. Name the module NoPassword and select NoPassword module from the Type list.
 
 ![image](images/add_module_1.png)
 
