@@ -23,7 +23,4 @@ Follow this steps in order to install the module:
             <li>Save changes.</li>
             <li>You can test the NoPassword authentication module by accesing this URL in your browser https://<strong>your_AM_server here</strong>/openam/XUI/?realm=/#login/&module=NoPassword.</br>
                 Enter your username and hit enter. You should get an authentication request on your phone.</li>
-            </br><img src="https://raw.githubusercontent.com/NoPasswordRepo/NoPasswordOpenAMAuth/master/images/demo_auth.png"></br></br>
-        </ol>
-    </body>
-</html>
+            </br><img src="https://raw.githubusercontent.com/NoPasswordRepo/NoPasswordOpenAMAuth/master/images/demo_auth.png"
