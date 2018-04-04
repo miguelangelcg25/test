@@ -1,4 +1,4 @@
-![image alt text](images/nopassword_logo.png)](www.nopassword.com)
+[![image alt text](images/nopassword_logo.png)](www.nopassword.com)
 
 # NoPassword Authentication Module
 
